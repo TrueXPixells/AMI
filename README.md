@@ -1,13 +1,6 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <title>readme</title>
-    </head>
-    <body class='bodyStyle'>
-    <pre>
- VERSION:1.0
- --CONTENTS--<br>
+<font size="large">
+VERSION:1.0
+ --CONTENTS--
  1 - Installation Instructions
  2 - Flash under Operating System
  3 - Flash Program Options
@@ -233,16 +226,5 @@
 *    /SV  "String"     update the System Brand ID.                          *
 *    /CA  "String"     update the Chassis Asset Tag Number.                 *
 *                                                                           *
-*****************************************************************************<br>
-</pre>
-</body>
-    <style>
-.bodyStyle {
-    background: white;
-    color:  black;
-    margin-left: 20%;
-    margin-right: 20%;
-    font-size: large;
-}
-</style>
-</html>
+*****************************************************************************
+</font/>
